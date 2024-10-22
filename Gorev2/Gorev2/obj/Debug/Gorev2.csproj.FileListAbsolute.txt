@@ -1,0 +1,10 @@
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\bin\Debug\Gorev2.exe.config
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\bin\Debug\Gorev2.exe
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\bin\Debug\Gorev2.pdb
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.csproj.AssemblyReference.cache
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.Form1.resources
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.Properties.Resources.resources
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.csproj.GenerateResource.cache
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.csproj.CoreCompileInputs.cache
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.exe
+C:\Users\cayir\OneDrive\Masaüstü\Görevler\Gorev2\Gorev2\obj\Debug\Gorev2.pdb
